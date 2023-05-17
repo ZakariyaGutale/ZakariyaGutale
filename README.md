@@ -1,5 +1,5 @@
 # Hello 👋:
-I am currently a Cloud Operations Engineer at Ruter AS.
+I am currently working at Cloud OPS @RuterNO
 
 # About my work
 As a Cloud Operations Engineer at Ruter AS, the public transportation authority for Oslo and Viken counties in Norway, I oversee a multitude of operational aspects. My responsibilities include monitoring and managing ticket systems, real-time displays, databases, vehicle systems, apps, networks, the Ruter mobile app, and network equipment. Key tasks encompass:
@@ -11,7 +11,6 @@ As a Cloud Operations Engineer at Ruter AS, the public transportation authority 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariyaGutale) 
 
-##
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
 
 ## 🎓 About my studies

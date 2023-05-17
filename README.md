@@ -9,7 +9,7 @@ As a Cloud Operations Engineer at Ruter AS, the public transportation authority 
 - Continual improvement of operational solutions.
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariyaGutale) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZakariaNur/) 
 
 -  🇬🇧 🇳🇴 
 

@@ -1,5 +1,5 @@
 # Hello 👋:
-I am currently working at Cloud OPS @RuterNO
+I am currently working at Cloud OPS [@RuterNo](https://github.com/RuterNo)
 
 # About my work
 As a Cloud Operations Engineer at Ruter AS, the public transportation authority for Oslo and Viken counties in Norway, I oversee a multitude of operational aspects. My responsibilities include monitoring and managing ticket systems, real-time displays, databases, vehicle systems, apps, networks, the Ruter mobile app, and network equipment. Key tasks encompass:

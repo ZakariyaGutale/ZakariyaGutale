@@ -11,7 +11,7 @@ As a Cloud Operations Engineer at Ruter AS, the public transportation authority 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariyaGutale) 
 
--  🇬🇧 🇳🇴 🇩🇪 🇭🇷
+-  🇬🇧 🇳🇴 
 
 ## 🎓 About my studies
 -  Degree: Bachelor in Computer Engineering, OsloMet - Storbyuniversitet

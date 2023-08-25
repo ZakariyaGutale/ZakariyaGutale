@@ -8,7 +8,7 @@ Working in Cloud Operations at Ruter AS, the public transportation authority for
 - Supervision of application systems,
 - Continual improvement of operational solutions.
 
-Besides my main duties, I've gotten good at testing using Jmeter & Postman. I also use AWS tools like Lambda, CloudWatch, SES, and API Gateway a lot for things like Automation, Scripts, monitoring, and working with APIs.
+Besides my main duties, I've gotten good at testing using Jmeter & Postman. I also use AWS tools like Lambda, EKS, EC2, Kubernetes and API Gateway a lot for things like Automation, Scripts, monitoring, Application deployment into cloud.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZakariaNur/) 

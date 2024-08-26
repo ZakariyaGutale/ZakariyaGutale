@@ -1,25 +1,10 @@
 # Hello 👋:
 I am currently working at Cloud OPS [@RuterNo](https://github.com/RuterNo)
 
-# About my work
-Working in Cloud Operations at Ruter AS, the public transportation authority for Oslo and Viken counties in Norway, I oversee a multitude of operational aspects. My responsibilities include monitoring and managing ticket systems, real-time displays, databases, vehicle systems, apps, networks, the Ruter mobile app, and network equipment. Some of the work tasks:
-
-- Automation of routine tasks,
-- Supervision of application systems,
-- Continual improvement of operational solutions.
-
-Besides my main duties, I've gotten good at testing using Jmeter & Postman. I also use AWS tools like Lambda, EKS, EC2, Kubernetes and API Gateway a lot for things like Automation, Scripts, monitoring, Application deployment into cloud.
-
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZakariaNur/) 
 
 🇬🇧 🇳🇴 
-
-## 🎓 About my studies
--  Degree: Bachelor in Computer Engineering, OsloMet - Storbyuniversitet
--  Duration: 3 years, 180 ECTS. 2024
--  Language of instruction: Norwegian, English
--  City: Oslo, Norway
 
 # 💻 Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
